@@ -24,4 +24,4 @@ ollama
 duckduckgo-search
 plotly
 feedparser
-# xhtml2pdf
+xhtml2pdf

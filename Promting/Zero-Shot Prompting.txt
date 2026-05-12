@@ -1,0 +1,5 @@
+Translate this sentence into French:
+
+"Where is the nearest railway station?"
+
+“Où se trouve la gare la plus proche ?”

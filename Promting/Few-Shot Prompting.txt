@@ -1,0 +1,9 @@
+Convert countries into capitals.
+
+India -> New Delhi
+
+Germany ->
+
+Germany → Berlin
+
+

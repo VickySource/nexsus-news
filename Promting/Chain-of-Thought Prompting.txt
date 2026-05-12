@@ -1,0 +1,21 @@
+A shop sells a pen for ₹20. Rahul buys 5 pens and gives ₹200.
+
+Think step by step and calculate:
+1. Total cost
+2. Remaining money
+
+
+Step 1: Cost of 1 pen = ₹20
+
+Step 2: Rahul buys 5 pens
+
+So, total cost = 20 × 5 = ₹100
+
+Step 3: Rahul gives ₹200
+
+Remaining money = 200 − 100 = ₹100
+
+### Answers:
+
+1. Total cost = ₹100
+2. Remaining money = ₹100
