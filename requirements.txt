@@ -25,3 +25,4 @@ duckduckgo-search
 plotly
 feedparser
 xhtml2pdf
+ 
