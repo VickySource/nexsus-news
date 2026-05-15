@@ -1,0 +1,19 @@
+1. Creating Project Folder
+2. Opening VS Code from CMD
+3. Creating Virtual Environment
+4. Activating .venv
+5. requirements.txt
+6. Installing Libraries
+7. Why Virtual Environment is Important
+
+
+
+python -m venv .venv
+
+.venv\Scripts\activate
+
+pip install -r requirements.txt
+
+Main Goal:
+
+Proper Python AI project setup.

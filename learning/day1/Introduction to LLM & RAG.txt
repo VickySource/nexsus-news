@@ -1,0 +1,23 @@
+1. What is LLM
+2. Local LLM
+3. Embeddings
+4. Vector Database
+5. Retrieval
+6. Similarity Search
+7. Orchestration
+8. Agents
+9. Tools
+10. Memory
+
+
+Ingestion
+   ↓
+Agents
+   ↓
+Tools
+   ↓
+Memory
+
+Main Goal:
+
+Understanding RAG pipeline basics.

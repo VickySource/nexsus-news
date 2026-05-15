@@ -1,0 +1,20 @@
+Topics:
+
+1. LangChain
+2. LangChain Community
+3. LangChain Chroma
+4. LangChain HuggingFace
+5. LangGraph
+6. How frameworks connect components
+7. Agents & Memory
+8. Tool calling
+
+You also noted:
+
+LangChain acts like Express.js
+for connecting everything together.
+
+
+Main Goal:
+
+Understanding how AI frameworks connect systems.

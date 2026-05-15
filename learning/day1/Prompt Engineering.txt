@@ -1,0 +1,10 @@
+1. Prompting
+2. Zero-shot Prompting
+3. Few-shot Prompting
+4. Chain of Thought Prompting
+5. Sentiment Classification
+
+
+positive
+negative
+neutral
